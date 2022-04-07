@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PETER MAINA
 - 👀 I’m interested in mobile apps,web apps and software building
-- 🌱 I’m currently learning javascript and java
+- 🌱 I’m currently learning python,javascript,kotlin
 - 💞️ I’m looking to collaborate on fullstack developments projects
 - 📫 you can reach me through my email: mainagpeter@gmail.com
 --->
